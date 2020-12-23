@@ -10,14 +10,11 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with ReactJS.
 - 💬 Ask me about HTML, CSS & Javascript.
-- 📫 How to reach me:
-<a href="https://twitter.com/tushar_kandpal">
-  <img alt="Tushar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/tushar-kandpal/">
+- 📫 How to reach me: <a href="https://twitter.com/tushar_kandpal">
+<img alt="Tushar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a> <a href="https://www.linkedin.com/in/tushar-kandpal/">
   <img alt="Tushar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/313i35wqzruzxrgt6q7drjrs5sym">
+</a> <a href="https://open.spotify.com/user/313i35wqzruzxrgt6q7drjrs5sym">
   <img alt="Tushar's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
