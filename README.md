@@ -20,6 +20,7 @@ Here are some ideas to get you started: -->
 <a href="https://open.spotify.com/user/313i35wqzruzxrgt6q7drjrs5sym">
   <img alt="Tushar's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Any job is a dream job if you fall asleep at work😴
 
