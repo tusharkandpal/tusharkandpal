@@ -1,9 +1,9 @@
 <h1 align="center"> Hi Devs! I'm <a href="https://hemant.codes">Tushar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <div align="center">
-<a href="https://twitter.com/tushar_kandpal"><img src="https://img.shields.io/static/v1?label=&message=Twitter&color=blue&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://www.linkedin.com/in/tushar-kandpal/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://open.spotify.com/user/313i35wqzruzxrgt6q7drjrs5sym"><img src="https://img.shields.io/static/v1?label=&message=Spotify&color=black&logo=spotify&logoColor=green" alt="Spotify" /></a>
+<a href="https://twitter.com/tushar_kandpal" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Twitter&color=blue&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://www.linkedin.com/in/tushar-kandpal/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://open.spotify.com/user/313i35wqzruzxrgt6q7drjrs5sym" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Spotify&color=black&logo=spotify&logoColor=green" alt="Spotify" /></a>
 </div>
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
