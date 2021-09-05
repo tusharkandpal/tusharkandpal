@@ -6,7 +6,7 @@
 <a href="https://twitter.com/tushar_kandpal" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Twitter&color=blue&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </div>
 
-<img align="right" height="350px" width="450px" alt="GIF" src="https://freepngimg.com/thumb/web_design/31744-3-coder-transparent-image.png" />
+<img align="right" height="300px" width="300px" alt="GIF" src="https://freepngimg.com/thumb/web_design/31744-3-coder-transparent-image.png" />
 
 ![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF) ![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=blue&logo=CSS3&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF) ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=green&logo=node.JS&logoColor=FFFFFF) ![Java](https://img.shields.io/static/v1?label=&message=Java&color=white&logo=java&logoColor=blue)
 
