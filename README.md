@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning ReactJS.
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with ReactJS.
-- 💬 Read out my blogs on [dev.to](https://dev.to/tushar_kandpal).
+- 💬 Read out my blogs on [hashnode](https://tusharkandpal.hashnode.dev/).
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Any job is a dream job if you fall asleep at work😴
 - 📫 How to reach me: kandpal.tushar@gmail.com
