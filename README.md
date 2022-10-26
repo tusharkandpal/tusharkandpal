@@ -1,6 +1,7 @@
 <h1 align="center"> Hi Devs! I'm <a target="_blank" href="https://tusharkandpal.netlify.app/">Tushar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px"></h1>
 
 <div align="center">
+<a href="https://tushar-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=black&logo=portfolio&logoColor=blue" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/tushar-kandpal/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://open.spotify.com/user/313i35wqzruzxrgt6q7drjrs5sym" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Spotify&color=black&logo=spotify&logoColor=green" alt="Spotify" /></a>
 <a href="https://twitter.com/tushar_kandpal" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Twitter&color=blue&logo=twitter&logoColor=white" alt="Twitter" /></a>
