@@ -11,9 +11,7 @@
 
 ![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF) ![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=blue&logo=CSS3&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF) ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=green&logo=node.JS&logoColor=FFFFFF) ![Java](https://img.shields.io/static/v1?label=&message=Java&color=white&logo=java&logoColor=blue) ![ReactJS](https://img.shields.io/static/v1?label=&message=ReactJS&color=ff751a&logo=ReactJS&logoColor=FFFFFF)
 
-- 🌱 I’m currently learning ReactJS.
 - 👯 I’m looking to collaborate on open-source projects.
-- 🤔 I’m looking for help with ReactJS.
 - 💬 Read out my blogs on [hashnode](https://tusharkandpal.hashnode.dev/).
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Any job is a dream job if you fall asleep at work😴
