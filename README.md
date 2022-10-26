@@ -9,7 +9,7 @@
 
 <img align="right" height="300px" width="300px" alt="GIF" src="https://freepngimg.com/thumb/web_design/31744-3-coder-transparent-image.png" />
 
-![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF) ![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=blue&logo=CSS3&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF) ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=green&logo=node.JS&logoColor=FFFFFF) ![Java](https://img.shields.io/static/v1?label=&message=Java&color=white&logo=java&logoColor=blue)
+![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF) ![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=blue&logo=CSS3&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF) ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=green&logo=node.JS&logoColor=FFFFFF) ![Java](https://img.shields.io/static/v1?label=&message=Java&color=white&logo=java&logoColor=blue) ![ReactJS](https://img.shields.io/static/v1?label=&message=ReactJS&color=ff751a&logo=ReactJS&logoColor=FFFFFF)
 
 - 🌱 I’m currently learning ReactJS.
 - 👯 I’m looking to collaborate on open-source projects.
