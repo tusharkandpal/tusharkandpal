@@ -15,6 +15,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Any job is a dream job if you fall asleep at work😴
 - 📫 How to reach me: kandpal.tushar@gmail.com | <a href="https://www.linkedin.com/in/tushar-kandpal/" target="_blank" style="vertical align: bottom"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+- 🌍 Check out my <a href="https://tushar-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=white&logo=proto.io&logoColor=black" alt="Portfolio" /></a>
 <!-- ======THE END====== -->
 
 <!-- **tusharkandpal/tusharkandpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
