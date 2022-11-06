@@ -14,7 +14,7 @@
 - 📖 Read out my blogs on [hashnode](https://tusharkandpal.hashnode.dev/).
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Any job is a dream job if you fall asleep at work😴
-- 📫 How to reach me: kandpal.tushar@gmail.com | <a href="https://www.linkedin.com/in/tushar-kandpal/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+- 📫 How to reach me: kandpal.tushar@gmail.com | <a href="https://www.linkedin.com/in/tushar-kandpal/" target="_blank" style="vertical align: bottom"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
 <!-- ======THE END====== -->
 
 <!-- **tusharkandpal/tusharkandpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
