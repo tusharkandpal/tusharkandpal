@@ -14,7 +14,6 @@
 - 📖 Read out my blogs on [hashnode](https://tusharkandpal.hashnode.dev/).
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Any job is a dream job if you fall asleep at work😴
-- 📫 How to reach me: kandpal.tushar@gmail.com
 - 🌍 Check out my <a href="https://tushar-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=white&logo=proto.io&logoColor=black" alt="Portfolio" /></a>
 <!-- ======THE END====== -->
 
