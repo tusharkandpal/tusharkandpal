@@ -11,7 +11,7 @@
 ![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF) ![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=blue&logo=CSS3&logoColor=FFFFFF) ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF) ![ReactJS](https://img.shields.io/static/v1?label=&message=ReactJS&color=ff751a&logo=react&logoColor=FFFFFF) ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=green&logo=node.JS&logoColor=FFFFFF) 
 
 - ⚔️ I’m looking to collaborate on open-source projects.
-- 📖 Read out my blogs on [hashnode](https://tusharkandpal.hashnode.dev/).
+- 📖 Read out my blogs on [hashnode](https://tushar-kandpal.hashnode.dev/).
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Any job is a dream job if you fall asleep at work😴
 - 🌍 Check out my <a href="https://tusharkandpal.netlify.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=white&logo=proto.io&logoColor=black" alt="Portfolio" /></a>
