@@ -1,4 +1,4 @@
-<h1 align="center"> Hi Devs! I'm <a target="_blank" href="https://tushar-portfolio.netlify.app/">Tushar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px"></h1>
+<h1 align="center"> Hi Devs! I'm <a target="_blank" href="https://tusharkandpal.netlify.app/">Tushar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px"></h1>
 
 <!-- <div align="center">
 <a href="https://tushar-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=white&logo=proto.io&logoColor=black" alt="Portfolio" /></a>
